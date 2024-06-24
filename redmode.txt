@@ -7,3 +7,5 @@ found a new bug and resolved that
 2. fork and clone all branches to iitk repo
 3. make some changes in this master
 4. make some changes in preprod
+5. make some changes from iitk repo branch
+6. make origin: iitk-repo and upstream: grofer-repo
