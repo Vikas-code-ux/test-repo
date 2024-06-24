@@ -2,3 +2,5 @@ this new file contains red mode.
 
 fixed a bug in redmode text file
 found a new bug and resolved that
+
+1. put preprod ahead of main
