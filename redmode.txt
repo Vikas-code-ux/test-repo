@@ -1,1 +1,3 @@
 this new file contains red mode.
+
+fixed a bug in redmode text file
