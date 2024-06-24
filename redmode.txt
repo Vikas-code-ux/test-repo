@@ -4,3 +4,4 @@ fixed a bug in redmode text file
 found a new bug and resolved that
 ok
 let's do something new in this redmode file
+hello
