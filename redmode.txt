@@ -4,3 +4,6 @@ fixed a bug in redmode text file
 found a new bug and resolved that
 
 1. put preprod ahead of main
+2. fork and clone all branches to iitk repo
+3. make some changes in this master
+4. make some changes in preprod
