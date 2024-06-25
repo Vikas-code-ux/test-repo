@@ -1,3 +1,5 @@
 This file has added blue mode.
 
 there is something imp in this file also
+
+practice makes perfect
